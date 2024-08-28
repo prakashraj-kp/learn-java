@@ -1,6 +1,6 @@
 /* Data type:
              data type is used to allow sufficient memory space for  data.
-             "java is strongly type languge" because data must declare with data type.
+             "java is strongly typed languge" because data must declare with data type.
               there are two types
               1.primitive datatype
               2. non-primitive datatype

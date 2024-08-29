@@ -25,8 +25,8 @@ public class datatype {
 int d = 40;
 float e = 2.3f;
 double f = 23.00;
-char g ='+';
+char  g ='+';
 boolean boy = true;
- System.out.println("a of value="+a+"\n b of value="+b+"\n c of value="+c+"\n d of value="+d+"\n e of value="+e+"\n f of value="+f+"\nboy="+boy);
+ System.out.println("a of value="+a+"\n b of value="+b+"\n c of value="+c+"\n d of value="+d+"\n e of value="+e+"\n f of value="+f+"\ng of char="+g+"\nboy="+boy);
     }
 }
